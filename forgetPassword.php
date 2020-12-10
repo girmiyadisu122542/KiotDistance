@@ -303,7 +303,7 @@ if ( mysqli_num_rows($query) > 0) {
 </div>
 </div>
 <div id                                                                                               ="footer">
-Copy Ri                                                                                                   ght Reserved by Group five
+Copy Ri                                                                                                   ght Reserved by Girmay Addisu
 </div>
 </BODY>                                                                                               
 </html>

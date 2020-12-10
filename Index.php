@@ -396,7 +396,7 @@
     <!-- Footer -->
     <div class="footer">
         <div class="container">
-            <p><i class="fas fa-copyright"></i> Copy Right Reserved by Group One - KIOT Distance Education System</p>
+            <p><i class="fas fa-copyright"></i> Copy Right Reserved by Girmay Addisu - KIOT Distance Education System</p>
         </div>
     </div>
 

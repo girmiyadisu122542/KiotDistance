@@ -164,7 +164,7 @@ if (isset($_SESSION["instructor"]) && ($_SESSION['instructorid'])) {
                     </table>
                 </div>
                 <footer class="container-fluid footer">
-                    <p>Copy Right Reserved by Group one</p>
+                    <p>Copy Right Reserved by Girmay Addisu</p>
                 </footer>
 
                 </body>

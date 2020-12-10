@@ -181,7 +181,7 @@ if (isset($_POST["change_password"])) {
             </div>
         </div>
   <footer class="container-fluid footer">
-                            <p>Copy Right Reserved by Group five</p>
+                            <p>Copy Right Reserved by Girmay Addisu</p>
                         </footer>
 
                         </body>

@@ -505,7 +505,7 @@ if (isset($_SESSION["student"]) && ($_SESSION['studentid'])) {
     <!-- Footer -->
     <div class="footer">
         <div class="container">
-            <p><i class="fas fa-copyright"></i> Copy Right Reserved by Group Five</p>
+            <p><i class="fas fa-copyright"></i> Copy Right Reserved by Girmay Addisu</p>
         </div>
     </div>
 

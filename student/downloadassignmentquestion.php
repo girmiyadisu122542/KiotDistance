@@ -164,7 +164,7 @@ $Department = $row['Department'];
             </div>
 
         <footer class="container-fluid footer">
-            <p>&copy;group one 2021</p>
+            <p>&copy;Girmay Addisu 2021</p>
         </footer>
 
     </body>

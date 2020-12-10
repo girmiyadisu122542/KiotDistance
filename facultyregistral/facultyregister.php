@@ -1,10 +1,10 @@
 <?php
 session_start();
-// if (isset($_SESSION["facultyregistrar"])) {
-//     $uname = $_SESSION["UserName"];
-// } else {
-//     header("Location: ../login.php");
-// }
+if (isset($_SESSION["facultyregistrar"])) {
+    $uname = $_SESSION["UserName"];
+} else {
+    header("Location: ../login.php");
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -371,7 +371,7 @@ session_start();
                 </div>
                 <div class="col-md-4">
                     <div class="user-info">
-                        <i class="fas fa-user"></i> Welcome, Mohammed Jemal
+                        <i class="fas fa-user"></i> Welcome, <?php echo isset($_SESSION["UserName"]) ?>  
                     </div>
                 </div>
             </div>

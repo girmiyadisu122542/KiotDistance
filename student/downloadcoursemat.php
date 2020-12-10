@@ -177,7 +177,7 @@ $Department = $row['Department'];
     </div>
 
     <footer class="container-fluid footer">
-        <p>Copy Right Reserved by Group One</p>
+        <p>Copy Right Reserved by Girmay Addisu</p>
     </footer>
 
 </body>

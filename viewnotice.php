@@ -190,7 +190,7 @@ timee=setTimeout("yourClock()",1000);
 </div>
 </div>
 <div id="footer">
-             <p>Copy Right Reserved by Group one</p>
+             <p>Copy Right Reserved by Girmay Addisu</p>
 </div>
 </BODY>
 

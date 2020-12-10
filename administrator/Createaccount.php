@@ -255,7 +255,7 @@ session_start();
                 </div>
 
                 <footer class="container-fluid footer">
-                    <p>Copy Right Reserved by Group five</p>
+                    <p>Copy Right Reserved by Girmay Addisu</p>
                 </footer>
 
             </body>

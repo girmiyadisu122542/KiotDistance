@@ -194,7 +194,7 @@ if ($_SESSION['code'] == $var1) {
                                                     </div>
                                                     </div>
                                                     <div id                                                                                               ="footer">
-                                                    Copy Ri                                                                                                   ght Reserved by Group five
+                                                    Copy Ri                                                                                                   ght Reserved by Girmay Addisu
                                                                                                    </div>
                                                                                                </BODY>                                                                                               
                                                                                                    </html>

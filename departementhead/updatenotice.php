@@ -199,7 +199,7 @@ if (isset($_SESSION["departmenthead"]) && ($_SESSION['departmentheadid'])) {
                             </div>
                         </div>
                         <footer class="container-fluid footer">
-                            <p>Copy Right Reserved by Group one</p>
+                            <p>Copy Right Reserved by Girmay Addisu</p>
                         </footer>
                     </BODY>
 
