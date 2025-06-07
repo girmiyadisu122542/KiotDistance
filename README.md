@@ -34,7 +34,7 @@ A comprehensive web-based Distance Education Management System developed for Wol
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/girmiyadisu122542/KiotDistance.git
 ```
 
 2. Set up database connection in `database.php`
